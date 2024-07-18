@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### 学习使用github好难
+#### 受伤了呜呜呜呜
 <!--
 **ty0402/ty0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
